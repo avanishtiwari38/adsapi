@@ -12,7 +12,7 @@
     
 3. Install requirements from `requirements.txt`. 
 
-Use the requirement files for each environment to install all the requirements in a single step using `pip install -r requirements/requirements.txt`
+Use the requirement files for each environment to install all the requirements in a single step using `pip install -r requirements.txt`
 
 4. Edit config file as per your database.
     
